@@ -69,3 +69,45 @@
 
 - id: publishedOn
   translation: "on"
+
+- id: carouselBuildPiServiceTitle
+  translation: "Build your own 24x7 hours photo cloud service using Raspberry Pi in 5 minutes"
+
+- id: carouselBuildPiServiceDesc
+  translation: "<p>Install customized image on Raspberry Pi 3 Model B+<br/>Download lomorage on App Store<br>You are ready to go</p>"
+
+- id: backupName
+  translation: "Backup"
+
+- id: backupDesc
+  translation: "Backup your photos and videos on the phone to your private storage while keeping the original resolution, supporting all formats including live photo, with no monthly fees."
+
+- id: crossplatformName
+  translation: "Cross Platform"
+
+- id: crossplatformDesc
+  translation:  "Our backend service is cross platform, you can easily set it up on Single Board Computer like Raspberry Pi with our customized image, and keep it running 7x24 with extremly low power consumption."
+
+- id: privacyName
+  translation: "Privacy"
+
+- id: privacyDesc
+  translation: "Your photo will store locally on your own device with the service running locally, nobody can access your assets without your permission."
+
+- id: replicateName
+  translation: "Disaster Recovery"
+
+- id: replicateDesc
+  translation: "Replicate your valuable assets to different hard drivers locally and remotely to compliment your disaster recovery plan."
+
+- id: shareName
+  translation: "Share"
+
+- id: shareDesc
+  translation: "Create accounts for your family, create different groups and share moments with them securely."
+
+- id: federationName
+  translation: "Federation"
+
+- id: federationDesc
+  translation: "You and your friends can run different instances of services, but they don't need to be isolate islands, they can still share photos and videos with each other regardless of where their account is."

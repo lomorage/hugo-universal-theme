@@ -69,3 +69,45 @@
 
 - id: publishedOn
   translation: "在"
+
+- id: carouselBuildPiServiceTitle
+  translation: "5分钟使用Raspberry Pi搭建属于您自己的24x7小时运行的私有云存储服务"
+
+- id: carouselBuildPiServiceDesc
+  translation: "<p>1. Raspberry Pi 安装Lomorage系统镜像<br/>2. App Store下载Lomorage客户端<br/>简单两步拥有自己的云存储</p>"
+
+- id: backupName
+  translation: "备份"
+
+- id: backupDesc
+  translation: "私人云存储备份，原始照片大小，<br/>支持所有格式，包括动态照片，<br/>无需月租，不限流量。"
+
+- id: crossplatformName
+  translation: "跨平台"
+
+- id: crossplatformDesc
+  translation:  "后台服务可运行在多种平台，<br/>支持Windows, macOS, raspberry Pi。"
+
+- id: privacyName
+  translation: "隐私"
+
+- id: privacyDesc
+  translation: "照片本地存储，内网访问，<br/>无需担心泄漏个人隐私。"
+
+- id: replicateName
+  translation: "灾难恢复"
+
+- id: replicateDesc
+  translation: "照片本地远程双备份，<br/>无需担心照片丢失。"
+
+- id: shareName
+  translation: "分享"
+
+- id: shareDesc
+  translation: "为家人创建账号，创建群组，<br/>安全的分享美好瞬间。"
+
+- id: federationName
+  translation: "邦联组网"
+
+- id: federationDesc
+  translation: "您和朋友之间运行完全独立的云服务，<br/>但也能自由而安全的分享照片。"
