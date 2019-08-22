@@ -71,7 +71,7 @@
   translation: "在"
 
 - id: carouselBuildPiServiceTitle
-  translation: "5分钟使用Raspberry Pi搭建属于您自己的24x7小时运行的私有云存储服务"
+  translation: "5分钟使用\"树莓派\"搭建属于您自己的24x7小时运行的私有云存储"
 
 - id: carouselBuildPiServiceDesc
   translation: "<p>1. Raspberry Pi 安装Lomorage系统镜像<br/>2. App Store下载Lomorage客户端<br/>简单两步拥有自己的云存储</p>"
