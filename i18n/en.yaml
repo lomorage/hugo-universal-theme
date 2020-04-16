@@ -73,8 +73,14 @@
 - id: carouselBuildPiServiceTitle
   translation: "Build your own 24x7 hours photo cloud service using Raspberry Pi in 5 minutes"
 
+- id: carouselBuildLomoFrameTitle
+  translation: "♥Lomorage Digital Frame, Save the memories, Enjoy the moments!♥"
+
 - id: carouselBuildPiServiceDesc
   translation: "<p>Install customized image on Raspberry Pi 3 Model B+<br/>Download lomorage on App Store<br>You are ready to go</p>"
+
+- id: carouselBuildLomoFrameDesc
+  translation: "<p>Playback media stored in Lomorage<br/>WiFi access，break the storage limits<br/>Choose different screen sizes <br/> place in living room or bedroom<br/>Built with Raspberry Pi zero</br>low cost, energy saver</p>"
 
 - id: backupName
   translation: "Backup"
