@@ -16,6 +16,9 @@
                         <div class="col-sm-7">
                             <img class="img-responsive" src="{{ .image }}" alt="">
                         </div>
+                        <div class="col-sm-7">
+                            <video width="{{ .vwidth }}" height="{{ .vheight }}" controls="">><source src="{{i18n .videosrc }}" type="video/mp4"></video>
+                        </div>
                     </div>
                 </div>
                 {{ end }}

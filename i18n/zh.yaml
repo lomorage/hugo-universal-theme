@@ -79,6 +79,9 @@
 - id: carouselBuildPiServiceDesc
   translation: "<p>1. Raspberry Pi 安装Lomorage系统镜像<br/>2. App Store下载Lomorage客户端<br/>简单两步拥有自己的云存储</p>"
 
+- id: carouselVideoTutorial
+  translation: "/Lomorage-tutorial-zh.mp4"
+
 - id: carouselBuildLomoFrameDesc
   translation: "<p>基于树莓派搭建数码相框<br/>播放存储在Lomorage的照片和视频<br/>WiFi无线加载，突破容量限制<br/>多种屏幕尺寸灵活选择，客厅卧室多机位<br/>基于树莓派zero，低成本低功耗</p>"
 
