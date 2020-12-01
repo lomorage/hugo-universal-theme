@@ -85,6 +85,18 @@
 - id: carouselBuildLomoFrameDesc
   translation: "<p>Playback media stored in Lomorage<br/>WiFi access，break the storage limits<br/>Choose different screen sizes <br/> place in living room or bedroom<br/>Built with Raspberry Pi zero</br>low cost, energy saver</p>"
 
+- id: carouselBuildLomoFrameImage
+  translation: "/img/carousel/lomo-frame.png"
+
+- id: carouselAllInOneTitle
+  translation: "Lomorage \n  - Your private secure Photo Cloud"
+
+- id: carouselAllInOneDesc
+  translation: "<p>Run your own Lomorage Service in your private network, backup and share with any devices<br/>Cross Platform, multiple accounts<br/>Support popular image/video formats</br>Support heic, h265 and Live Photo</p>"
+
+- id: carouselAllInOneImage
+  translation: "/img/carousel/All-in-one-en.png"
+
 - id: backupName
   translation: "Backup"
 
@@ -120,3 +132,5 @@
 
 - id: federationDesc
   translation: "You and your friends can run different instances of services, but they don't need to be isolate islands, they can still share photos and videos with each other regardless of where their account is."
+
+

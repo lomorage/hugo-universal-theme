@@ -14,7 +14,7 @@
                             {{ i18n .description | safeHTML }}
                         </div>
                         <div class="col-sm-7">
-                            <img class="img-responsive" src="{{ .image }}" alt="">
+                            <img class="img-responsive" src="{{i18n .image }}" alt="">
                         </div>
                         <div class="col-sm-7">
                             <video width="{{ .vwidth }}" height="{{ .vheight }}" controls="">><source src="{{i18n .videosrc }}" type="video/mp4"></video>
