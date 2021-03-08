@@ -71,13 +71,13 @@
   translation: "on"
 
 - id: carouselBuildPiServiceTitle
-  translation: "Build your own 24x7 hours photo cloud service using Raspberry Pi in 5 minutes"
+  translation: "Setup your own 24x7 hours photo cloud service in 5 minutes"
 
 - id: carouselBuildLomoFrameTitle
   translation: "♥Lomorage Digital Frame, Save the memories, Enjoy the moments!♥"
 
 - id: carouselBuildPiServiceDesc
-  translation: "<p>Install customized image on Raspberry Pi 3 Model B+<br/>Download lomorage on App Store<br>You are ready to go</p>"
+  translation: "<p>1. Install customized image on Raspberry Pi 3 Model B+<br/>2. Download lomorage on App Store<br>With two steps, you are all set</p>"
 
 - id: carouselVideoTutorial
   translation: "/Lomorage-tutorial.mp4"
@@ -96,6 +96,15 @@
 
 - id: carouselAllInOneImage
   translation: "/img/carousel/All-in-one-en.png"
+
+- id: carouselOrangePiZeroTitle
+  translation: "Lomorage + Orange Pi Zero = Private photo cloud within budget"
+
+- id: carouselOrangePiZeroDesc
+  translation: "<p>A $19 Tiny Single Board Computer<br/>H2 Quad-core and 512MB DDR3 SDRAM</br>Happy running resource efficient Lomorage Service</p>"
+
+- id: carouselOrangePiZeroImage
+  translation: "/img/carousel/orangepizero.jpg"
 
 - id: backupName
   translation: "Backup"

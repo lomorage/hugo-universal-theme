@@ -71,13 +71,13 @@
   translation: "在"
 
 - id: carouselBuildPiServiceTitle
-  translation: "5分钟使用\"树莓派\"搭建属于您自己的24x7小时运行的私有云存储"
+  translation: "5分钟即可拥有属于您的24x7小时运行的私有照片云服务"
 
 - id: carouselBuildLomoFrameTitle
   translation: "♥Lomorage相框 珍藏美好回忆 享受精彩瞬间♥"
 
 - id: carouselBuildPiServiceDesc
-  translation: "<p>1. Raspberry Pi 安装Lomorage系统镜像<br/>2. App Store下载Lomorage客户端<br/>简单两步拥有自己的云存储</p>"
+  translation: "<p>1. 安装Lomorage系统镜像<br/>2. App Store下载Lomorage客户端<br/>简单两步拥有自己的云存储</p>"
 
 - id: carouselVideoTutorial
   translation: "/Lomorage-tutorial-zh.mp4"
@@ -96,6 +96,15 @@
 
 - id: carouselAllInOneImage
   translation: "/img/carousel/All-in-one.png"
+
+- id: carouselOrangePiZeroTitle
+  translation: "Lomorage + Orange Pi Zero = 物美价廉的照片云"
+
+- id: carouselOrangePiZeroDesc
+  translation: "<p>不到¥200的微型单板计算机<br/>配置H2四核处理器和512MB DDR3内存</br>运行资源消耗极低的Lomorage服务程序毫无压力</p>"
+
+- id: carouselOrangePiZeroImage
+  translation: "/img/carousel/orangepizero.jpg"
 
 - id: backupName
   translation: "备份"
